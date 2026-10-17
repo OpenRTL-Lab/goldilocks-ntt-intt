@@ -1,0 +1,16 @@
++incdir+rtl/v1.1.0/lane1-n65536
+rtl/v1.1.0/lane1-n65536/AsicGoldilocksButterfly.sv
+rtl/v1.1.0/lane1-n65536/AsicGoldilocksMul.sv
+rtl/v1.1.0/lane1-n65536/AsicGoldilocksNttPair.sv
+rtl/v1.1.0/lane1-n65536/AsicNttPlane.sv
+rtl/v1.1.0/lane1-n65536/AsicSram1R1W_32768x64.sv
+rtl/v1.1.0/lane1-n65536/AsicSram1R1W_65536x64.sv
+rtl/v1.1.0/lane1-n65536/Queue1_AsicNttTask.sv
+rtl/v1.1.0/lane1-n65536/Queue2_AsicNttDataBeat.sv
+rtl/v1.1.0/lane1-n65536/Queue2_AsicNttTableBeat.sv
+rtl/v1.1.0/lane1-n65536/Queue4_AsicNttDataBeat.sv
+rtl/v1.1.0/lane1-n65536/memory_32768x64.sv
+rtl/v1.1.0/lane1-n65536/memory_65536x64.sv
+rtl/v1.1.0/lane1-n65536/ram_2x129.sv
+rtl/v1.1.0/lane1-n65536/ram_2x66.sv
+rtl/v1.1.0/lane1-n65536/ram_4x129.sv
